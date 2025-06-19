@@ -9,7 +9,7 @@ How to Resole Your Connection Is Not Private? Error
 .. raw:: html
 
     <div style="text-align: center;">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/LdUQyQb20B4"
                 frameborder="0" allowfullscreen></iframe>
     </div>
 
